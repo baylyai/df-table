@@ -1,1 +1,1 @@
-# sui-df-table
+# df-table
